@@ -1,0 +1,8 @@
+FileToBase64/.vs/
+FileToBase64/FileToBase64/Debug/
+FileToBase64/FileToBase64/Release/cl.command.1.tlog
+FileToBase64/FileToBase64/Release/
+FileToBase64/Debug/
+FileToBase64/Release/
+*.vcxproj
+*.user
